@@ -1,6 +1,7 @@
 # OPNex-REST-StreamIngestion
 
-This just pretend to be a small sample to test how to send a file from inside InterSystems IRIS to a REST service. Please don't use for production use and assume that there is lack of error handling in the code.
+This just pretend to be a small sample to test how to send a file from inside InterSystems IRIS to a REST service. 
+> *Please don't use for production use and assume that there is lack of error handling in the code.*
 
 ## Contents
 
